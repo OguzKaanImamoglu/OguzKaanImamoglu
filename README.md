@@ -31,6 +31,11 @@
 
 ## 🌍 Connect with me  
 
+## 🌍 Connect with me  
+
 <p align="left">
-    <a href="[https://linkedin.com/in/oguzkaanimamoglu](https://www.linkedin.com/in/oguz-kaan-imamoglu/)" target="_blank"><img src="https://www.vikingcamps.com/wp-content/uploads/2024/01/linkedin-logo-linkedin-icon-transparent-free-png.webp" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/oguzkaanimamoglu/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+    </a>
 </p>
+
