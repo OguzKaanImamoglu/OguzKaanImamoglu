@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Oguz Kaan Imamoglu! 👋</h1>
 
 ## 🚀 About Me  
-- 🏢 I am currently working at **taico GmbH** as a full-stack software engineering working student.  
+- 🏢 I am currently working at **taico GmbH** as a full-stack software engineer 
 - 💻 I am a master student at **TUM Informatics department**.
 - 🎓 I received my bachelor's degree from **Bilkent University, Department of Computer Science**.
 ---
