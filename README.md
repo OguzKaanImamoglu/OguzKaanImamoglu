@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Oğuz Kaan İmamoğlu 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3A7A,100:3B82C4&height=200&section=header&text=O%C4%9Fuz%20Kaan%20%C4%B0mamo%C4%9Flu&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Oğuz Kaan İmamoğlu" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://oguzkaanimamoglu.github.io">
@@ -14,14 +16,16 @@
 
 ---
 
-### About me
-
-- 💻 Full-stack software engineer based in Munich, interested in AI and data-intensive systems
-- 🎓 M.Sc. Informatics from **TU Munich**, B.Sc. Computer Science from **Bilkent University**
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OguzKaanImamoglu/OguzKaanImamoglu/output/github-snake-dark.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/OguzKaanImamoglu/OguzKaanImamoglu/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OguzKaanImamoglu/OguzKaanImamoglu/output/profile-3d-contrib/profile-night-green.svg" />
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/OguzKaanImamoglu/OguzKaanImamoglu/output/profile-3d-contrib/profile-green-animate.svg" />
   </picture>
 </p>
