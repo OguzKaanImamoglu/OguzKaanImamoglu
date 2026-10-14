@@ -30,7 +30,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Collect outputs
-        run: cp -r profile-3d-contrib dist/
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
+          cp -r profile-3d-contrib dist/
+          ls -R dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
